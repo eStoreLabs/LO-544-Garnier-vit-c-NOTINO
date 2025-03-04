@@ -1,0 +1,413 @@
+{
+    "keys": [
+        "[URL suffix]"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "[Campaign Name]",
+    "rpc": "[Product code]",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "[Campaign Name]",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "./KV.jpg",
+                                "element": "img",
+                                "alt": "Nowa ulepszona formuła",
+                                "properties": []
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": " 54px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "<span>Serum numer 1 w Polsce</span><sup style=\"font-size: 15px;\">2</sup><br/><span style=\"color: #000000; font-weight: 100;\">Teraz jeszcze skuteczniejsze!</span>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "color": "#ea5818",
+                                    "fontWeight": "700",
+                                    "fontSize": "30px",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "./MOD 02.jpg",
+                                "element": "img",
+                                "alt": "Nowa ulepszona formuła",
+                                "properties": []
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "46px",
+                            "marginBottom": "73px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "./MOD 02 mobile.jpg",
+                                "element": "img",
+                                "alt": "Nowa ulepszona formuła",
+                                "properties": []
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "46px",
+                            "marginBottom": "73px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "<span>Potwierdzona</span> <span style=\"color: #000000; font-weight: 400;\">skuteczność</span>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "color": "#ea5818",
+                                    "fontWeight": "700",
+                                    "fontSize": "30px",
+                                    "marginTop": "50px",
+                                    "marginBottom": "60px",
+                                    "padding": "0 33px 0 33px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "<p>Redukcja <b style=\"color: #ea5818;\">70%</b> przebarwień po 8 tygodniach<sup>1</sup></p><p>Widoczne rozświetlenie skóry po 3 dniach<sup>1</sup></p><p><b style=\"color: #ea5818;\">98%</b> zauważyło wyrównany koloryt skóry<sup>4</sup></p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "fontSize": "23px",
+                                    "fontWeight": "normal",
+                                    "color": "#000000",
+                                    "padding": "0 33px 0 33px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "./MOD 03.jpg",
+                                "element": "img",
+                                "alt": "Serum na przebarwienia",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "77px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "<p style=\"color: #000000; font-weight: 300; margin-bottom: 0;\">Dlaczego warto stosować</p><p style=\"margin-bottom: 0;\">Serum Vitamin C?</p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "color": "#ea5818",
+                                    "fontWeight": "700",
+                                    "fontSize": "30px",
+                                    "marginTop": "50px",
+                                    "marginBottom": "41px",
+                                    "fontFamily": "Roboto",
+                                    "padding": "0 33px 0 33px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "<p>Wielowymiarowa redukcja przebarwień: intensywność,gęstość, kontrast.</p><p>Działa na wszystkie typy przebarwień, także uproczywe: <b>po trądziku, ekspozycji na słońce oraz związane z wiekiem.</b></p><p>Ogranicza nawroty przebarwień<sup>1</sup>.</p><p>Lekka, nieklejąca się formuła.</p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontWeight": "400",
+                                    "color": "#000000",
+                                    "padding": "0 33px 0 33px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "./MOD 04.jpg",
+                                "element": "img",
+                                "alt": "Serum witamin C",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "89px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "<p style=\"color: #000000; font-weight: 300; margin-bottom: 0;\">Składniki aktywne</p><p style=\"margin-bottom: 0;\">w serum na przebarwienia</p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "color": "#ea5818",
+                                    "fontWeight": "700",
+                                    "fontSize": "30px",
+                                    "marginTop": "50px",
+                                    "marginBottom": "43px",
+                                    "padding": "0 33px 0 33px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "<p style=\"font-weight: 300; margin-bottom: 0;\"><b style=\"color: #ea5818;\">MELASYL™ - </b>Nowa opatentowana substancja aktywna, która redukuje nadmiar melaniny powodującej przebarwienia. Nadaje formule żółty odcień, który nie przenosi się na skórę.</p><p style=\"font-weight: 300; margin-bottom: 0;\"><b style=\"color: #ea5818;\">WITAMINA C* - </b>Pozyskiwany biotechnologicznie, silny antyoksydant, który rozświetla skórę.</p><p style=\"font-weight: 300; margin-bottom: 0;\"><b style=\"color: #ea5818;\">NIACYNAMID - </b>Kojący składnik aktywny, który wyrównuje koloryt skóry.</p><p style=\"font-weight: 300; margin-bottom: 0;\"><b style=\"color: #ea5818;\">KWAS SALICYLOWY - </b>Delikatnie złuszcza i wygładza skórę.</p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontWeight": "normal",
+                                    "color": "#000000",
+                                    "padding": "0 33px 0 33px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "./MOD 05.jpg",
+                                "element": "img",
+                                "alt": "Sposób użycia",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "61px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "<span>Sposób</span> <span style=\"color: #000000; font-weight: 300;\">użycia</span>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "color": "#ea5818",
+                                    "fontWeight": "700",
+                                    "fontSize": "30px",
+                                    "marginTop": "50px",
+                                    "marginBottom": "41px",
+                                    "fontFamily": "Roboto",
+                                    "padding": "0 33px 0 33px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "<p>1. Zaaplikuj 3-4 krople na oczyszczoną skórę twarzy i szyi.</p><p>2. Nałóż krem z filtrem UV, aby skuteczniej walczyć\nz przebarwieniami.</p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "padding": "0 33px 0 33px",
+                                    "fontFamily": "Roboto"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "./MOD 06.jpg",
+                                "element": "img",
+                                "alt": "Serum witamin C",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "75px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "<span style=\"color: #000000; font-weight: 100;\">Odkryj gamę</span> <span>Vitamin C</span>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "color": "#ea5818",
+                                    "fontWeight": "700",
+                                    "fontSize": "30px",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "padding": "0 33px 0 33px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "./MOD 07.jpg",
+                                "element": "img",
+                                "alt": "Nowa ulepszona formuła",
+                                "properties": []
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "64px",
+                            "marginBottom": " 49px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "./MOD 07 mobile.jpg",
+                                "element": "img",
+                                "alt": "Nowa ulepszona formuła",
+                                "properties": []
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "64px",
+                            "marginBottom": " 49px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "DangerHtml",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "<p style=\"margin-bottom: 0;\"><sup>1</sup> Ocena kliniczna.</p><p style=\"margin-bottom: 0;\"><sup>2</sup> L’Oréal za NielsenIQ Panel Sklepów Detalicznych (cała Polska): wartość sprzedaży w okresie 1-52 tyg. 2024 r. była najwyższa w kategorii Face Care: Serum.</p><p style=\"margin-bottom: 0;\"><sup>3</sup> Średnie rezultaty na pojedynczym przebarwieniu. Wyniki mogą się różnić.</p><p style=\"margin-bottom: 0;\"><sup>4</sup> Test konsumencki 11 kobiet, 8 tygodni.</p><p style=\"margin-bottom: 0;\">* Witamina Cg = pochodna witaminy C.</p>",
+                                "element": "DangerHtml",
+                                "properties": {
+                                    "fontWeight": "400",
+                                    "fontSize": "12px",
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
