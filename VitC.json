@@ -1,16 +1,14 @@
 {
-    "keys": [
-        "[URL suffix]"
-    ],
+    "keys": ["skin-naturals-vitamin-c-super-glow-serum-serum-rozjasniajace-z-witamina-c"],
     "type": 0,
     "language": "pl-PL",
-    "campaign": "[Campaign Name]",
-    "rpc": "[Product code]",
+    "campaign": "Skin Naturals Vitamin C Super Glow Serum Rozjasniajace z witaminą C",
+    "rpc": "GAR06839",
     "dateOnSaleFrom": null,
     "owner": "MatusC",
     "contents": [
         {
-            "name": "[Campaign Name]",
+            "name": "Skin Naturals Vitamin C Super Glow Serum Rozjasniajace z witaminą C",
             "key": "",
             "isApproved": false,
             "rich": {
