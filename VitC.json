@@ -18,7 +18,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "./KV.jpg",
+                                "value": "KV.jpg",
                                 "element": "img",
                                 "alt": "Nowa ulepszona formuła",
                                 "properties": []
@@ -69,7 +69,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "./MOD-02.jpg",
+                                "value": "MOD-02.jpg",
                                 "element": "img",
                                 "alt": "Nowa ulepszona formuła",
                                 "properties": []
@@ -91,7 +91,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "./MOD-02-mobile.jpg",
+                                "value": "MOD-02-mobile.jpg",
                                 "element": "img",
                                 "alt": "Nowa ulepszona formuła",
                                 "properties": []
@@ -140,7 +140,7 @@
                             },
                             {
                                 "name": "asset",
-                                "value": "./MOD-03.jpg",
+                                "value": "MOD-03.jpg",
                                 "element": "img",
                                 "alt": "Serum na przebarwienia",
                                 "properties": {}
@@ -188,7 +188,7 @@
                             },
                             {
                                 "name": "asset",
-                                "value": "./MOD-04.jpg",
+                                "value": "MOD-04.jpg",
                                 "element": "img",
                                 "alt": "Serum witamin C",
                                 "properties": {}
@@ -236,7 +236,7 @@
                             },
                             {
                                 "name": "asset",
-                                "value": "./MOD-05.jpg",
+                                "value": "MOD-05.jpg",
                                 "element": "img",
                                 "alt": "Sposób użycia",
                                 "properties": {}
@@ -284,7 +284,7 @@
                             },
                             {
                                 "name": "asset",
-                                "value": "./MOD-06.jpg",
+                                "value": "MOD-06.jpg",
                                 "element": "img",
                                 "alt": "Serum witamin C",
                                 "properties": {}
@@ -336,7 +336,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "./MOD-07.jpg",
+                                "value": "MOD-07.jpg",
                                 "element": "img",
                                 "alt": "Nowa ulepszona formuła",
                                 "properties": []
@@ -358,7 +358,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "./MOD-07-mobile.jpg",
+                                "value": "MOD-07-mobile.jpg",
                                 "element": "img",
                                 "alt": "Nowa ulepszona formuła",
                                 "properties": []
